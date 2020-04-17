@@ -3,4 +3,9 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="button">SWIMMNG\nPRELIMINARY ROUND\nWOMEN</string>
+    <string name="text_home">Your Journey to the Olympics</string>
+    <string name="button2">SWIMMNG\nPRELIMINARY ROUND\nMEN</string>
+    <string name="button3">SWIMMNG\nMEDLEY\nWOMEN</string>
+    <string name="i">Image</string>
 </resources>
