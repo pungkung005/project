@@ -8,4 +8,10 @@
     <string name="button2">SWIMMNG\nPRELIMINARY ROUND\nMEN</string>
     <string name="button3">SWIMMNG\nMEDLEY\nWOMEN</string>
     <string name="i">Image</string>
+    <string name="login">Login</string>
+    <string name="password">password</string>
+    <string name="sign">or Sign up?</string>
+    <string name="userid">UserID</string>
+    <string name="cardno">Card No</string>
+
 </resources>
