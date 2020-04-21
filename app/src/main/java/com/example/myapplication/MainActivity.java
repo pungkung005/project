@@ -20,10 +20,7 @@ import androidx.navigation.ui.NavigationUI;
 import java.io.FileOutputStream;
 
 public class MainActivity extends AppCompatActivity {
-
-
     EditText mEditText;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
